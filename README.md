@@ -2,11 +2,11 @@
 
 
 ## Insatll
-Use the following command to install __whois_ip__
+Use the following commands to install __whois_ip__
 ```bash
 git clone https://github.com/bahonar2002/whois_ip
 cd whois_ip
-bash intall.sh 
+bash install.sh 
 ```
 
 
